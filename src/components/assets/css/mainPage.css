@@ -1,0 +1,47 @@
+.home{
+	display:flex;
+	flex-direction:column;
+	padding:150px 60px;
+	height:1229px
+}
+
+
+.carousel{
+	margin:30px 0;
+	display:flex;
+}
+
+.adContent{
+	display:flex;
+}
+
+.adImage{
+	display:flex;
+	margin-right:30px;
+}
+
+.adImage img{
+	object-fit:contain;
+}
+
+.adTextContent{
+	display:flex;
+	flex-direction:column;
+}
+
+.productLink{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	width:150px;
+	height:30px;
+	cursor:pointer;
+	background-color:black;
+	color:white;
+	border-radius:30px;
+}
+
+.productPrice{
+	font-size:30px;
+	font-weight:bold;
+}

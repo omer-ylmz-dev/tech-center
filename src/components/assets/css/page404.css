@@ -1,0 +1,15 @@
+.errorPage{
+	padding-top:151px;
+	height:1229px;
+}
+.errorContent{
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;
+}
+.homeButton{
+	cursor:pointer;
+	text-decoration:underline;
+	color:blue;
+}

@@ -1,0 +1,48 @@
+.shoppingCart{
+	z-index:1;
+	position:absolute;
+	top:60px;
+	right:40px;
+	border:1px solid lightgray;
+	background-color:rgb(250,240,255);
+	width:350px;
+}
+.summary{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+}
+.summaryBill{
+	display:flex;
+	flex-direction:column;
+	align-items:flex-end;
+	margin:25px 15px 15px 0;
+	font-size:20px;
+}
+.totalPrice{
+	font-weight:bold;
+	font-size:30px;
+}
+.cartOptions{
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	justify-content:center;
+	margin:0 0 15px 25px;
+}
+.cartOptions > span{
+	cursor:pointer;
+	border:1px solid black;
+	border-radius:12px;
+	padding:5px 15px;
+	margin:5px 0;
+}
+.cartOptions > span:active{
+	background-color:black;
+	color:white;
+}
+.shoppingCartWarning{
+	position:absolute;
+	top:65px;
+	left:95px;
+}
