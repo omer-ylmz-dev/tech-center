@@ -7,7 +7,7 @@ This is a React E-Commerce Project. This project was created with React
 
 ## Technologies
 
-Project is created with React + Vite and designed with CSS3 + media queries
+Project is created with React + Vite and designed with CSS3
 
 
 
