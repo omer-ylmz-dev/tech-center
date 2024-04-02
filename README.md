@@ -1,8 +1,60 @@
-# React + Vite
+# Tech Center - React E-Commerce Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+This is a React E-Commerce Project. This project was created with React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+## Technologies
+
+Project is created with React + Vite and designed with CSS3 + media queries
+
+
+
+### Technical Details : 
+
+React version : 18.2.0
+
+React-Dom version : 18.2.0
+
+React-Icons version : 5.0.1
+
+React-Redux version : 9.1.0
+
+Redux-Toolkit version : 2.2.1
+
+React-Router-Dom version : 6.22.3
+
+React-slick version : 0.30.2
+
+Slick-carousel version : 1.8.1
+
+Vite version : 5.1.6
+
+
+
+
+
+
+## Setup
+
+To run this project, install it locally using npm
+
+```
+$ cd .../tech-center
+$ npm install
+$ npm run dev
+
+```
+
+
+
+or to preview this project :
+
+```
+$ cd .../tech-center
+$ npm install
+$ npm run build
+$ npm run preview
+
+```
